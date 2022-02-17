@@ -1,43 +1,36 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Bulut Çözümleri
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: ENTERA BULUT FAKS
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Fakslarınızı, email gönderebildiğiniz her yerden, her zaman kolaylıkla alıp / gönderebilirsiniz.
+  Bilgisayarınızdaki her tür dokümanı, yazıcıdan çıktı almaya gerek kalmadan, fax makinası başında beklemeden, kolayca fakslayabilirsiniz.
+  Faks göndermek istediğiniz numaranın meşgul olması yüzünden faks makinası başında zaman kaybetmezsiniz. Sistem, faksınızı otomatik olarak ve sizin istediğiniz sayıda tekrar göndermeyi dener.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/toplu-sms.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        SMS - MMS
+
+        Toplu SMS ihtiyacınızı arada bir çözüm ortağı olmadan, kolaylıkla ve uygun fiyata temin edebilirsiniz.
+
+        SMS ve MMS, hedef kitlenizi etkileyebilmek için var olan en hızlı, modern ve özel iletişim biçimidir.
+        Bayram, yılbaşı ve diğer özel gün (doğum günü, evlilik yıldönümü vs.) kutlamaları gibi anlık duyuruları kolaylıkla yapabilirsiniz.
+        Alıcılara İsim/Şirket vb. alanlarla "Kişiselleşmiş" SMS yollayabilirsiniz (SMS Merge)
+    - image: /img/interaktif.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        IVR-IVN İNTERAKTİF SESLİ MESAJ
+        Çağrı merkezleri aracılığı ile aynı anda limitli kişi sayısına ulaşılırken, IVR ile aynı anda binlerce kişiye mesajınızı iletebilirsiniz.
+        Kişilerin şive/aksan/ses tonu/moral motivasyonu gibi insani etkilerinden etkilenmeden, beğendiğiniz bir ses kaydını bir kaç dakika içinde onbinlerce kişiye ulaştırabilirsiniz.
+        Tercihinize göre, oluşturulmuş senaryoya bağlı olarak sorulacak soru(lar) sonunda kişinin tuşladığı sayılara göre interaktif olarak "İŞ AKIŞLARI" tanımlanabilir.
+    - image: 
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        
+    - image: 
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,45 +38,38 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/bulutfaks.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/bulutfaks2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/Entera.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Entera
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      
+  - author: 
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      
+full_image: /img/home-jumbotron.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Entera
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
-      price: '50'
+      plan: 
+      price: 
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
